@@ -1,2 +1,10 @@
-com\mycompany\persistencia\JakartaRestConfiguration.class
+dao\SubsidioDAO.class
+dto\SubsidioDTO.class
+dao\ProgramaDAO.class
+dto\PersonaDTO.class
+servlets\PersonaServlet.class
 com\mycompany\persistencia\resources\JakartaEE11Resource.class
+dto\ProgramaDTO.class
+servlets\ProgramaServlet.class
+com\mycompany\persistencia\JakartaRestConfiguration.class
+dao\PersonaDAO.class

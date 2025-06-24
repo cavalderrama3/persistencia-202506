@@ -1,2 +1,10 @@
 C:\Users\USER\Documents\NetBeansProjects\Persistencia\src\main\java\com\mycompany\persistencia\JakartaRestConfiguration.java
 C:\Users\USER\Documents\NetBeansProjects\Persistencia\src\main\java\com\mycompany\persistencia\resources\JakartaEE11Resource.java
+C:\Users\USER\Documents\NetBeansProjects\Persistencia\src\main\java\dao\PersonaDAO.java
+C:\Users\USER\Documents\NetBeansProjects\Persistencia\src\main\java\dao\ProgramaDAO.java
+C:\Users\USER\Documents\NetBeansProjects\Persistencia\src\main\java\dao\SubsidioDAO.java
+C:\Users\USER\Documents\NetBeansProjects\Persistencia\src\main\java\dto\PersonaDTO.java
+C:\Users\USER\Documents\NetBeansProjects\Persistencia\src\main\java\dto\ProgramaDTO.java
+C:\Users\USER\Documents\NetBeansProjects\Persistencia\src\main\java\dto\SubsidioDTO.java
+C:\Users\USER\Documents\NetBeansProjects\Persistencia\src\main\java\servlets\PersonaServlet.java
+C:\Users\USER\Documents\NetBeansProjects\Persistencia\src\main\java\servlets\ProgramaServlet.java
