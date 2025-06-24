@@ -4,6 +4,7 @@
  */
 package dao;
 
+import dao.ProgramaDAO;
 import dto.ProgramaDTO;
 import java.sql.Connection;
 import java.sql.DriverManager;
